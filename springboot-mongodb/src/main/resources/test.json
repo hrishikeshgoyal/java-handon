@@ -1,7 +1,0 @@
-db.createUser(
-{
-  user: "user1",
-  pwd:  "pass1",   // or passwordPrompt()
-  roles: [ { role: "readWrite", db: "demo" } ]
-}
-)
