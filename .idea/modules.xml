@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lld/cache/cache.iml" filepath="$PROJECT_DIR$/lld/cache/cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-kafka/kafka-consumer-database/kafka-consumer-database.iml" filepath="$PROJECT_DIR$/springboot/springboot-kafka/kafka-consumer-database/kafka-consumer-database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-kafka/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" filepath="$PROJECT_DIR$/springboot/springboot-kafka/kafka-producer-wikimedia/kafka-producer-wikimedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld/src/lld.iml" filepath="$PROJECT_DIR$/lld/src/lld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld/low-level-design-messaging-queue-pub-sub/low-level-design-messaging-queue-pub-sub.iml" filepath="$PROJECT_DIR$/lld/low-level-design-messaging-queue-pub-sub/low-level-design-messaging-queue-pub-sub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-kafka/src/main/main.iml" filepath="$PROJECT_DIR$/springboot/springboot-kafka/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springbootrest/src/main/main1.iml" filepath="$PROJECT_DIR$/springboot/springbootrest/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springbootweb/src/main/main2.iml" filepath="$PROJECT_DIR$/springboot/springbootweb/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-elasticsearch/src/main/main3.iml" filepath="$PROJECT_DIR$/springboot/springboot-elasticsearch/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld/cache-low-level-system-design/src/main/main4.iml" filepath="$PROJECT_DIR$/lld/cache-low-level-system-design/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-redis/src/main/main5.iml" filepath="$PROJECT_DIR$/springboot/springboot-redis/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-mongodb/src/main/main6.iml" filepath="$PROJECT_DIR$/springboot/springboot-mongodb/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld/pub-sub-queue/pub-sub-queue.iml" filepath="$PROJECT_DIR$/lld/pub-sub-queue/pub-sub-queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-elasticsearch/src/test/test.iml" filepath="$PROJECT_DIR$/springboot/springboot-elasticsearch/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lld/cache-low-level-system-design/src/test/test1.iml" filepath="$PROJECT_DIR$/lld/cache-low-level-system-design/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-redis/src/test/test2.iml" filepath="$PROJECT_DIR$/springboot/springboot-redis/src/test/test2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-kafka/src/test/test3.iml" filepath="$PROJECT_DIR$/springboot/springboot-kafka/src/test/test3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springbootweb/src/test/test4.iml" filepath="$PROJECT_DIR$/springboot/springbootweb/src/test/test4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springbootrest/src/test/test5.iml" filepath="$PROJECT_DIR$/springboot/springbootrest/src/test/test5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot/springboot-mongodb/src/test/test6.iml" filepath="$PROJECT_DIR$/springboot/springboot-mongodb/src/test/test6.iml" />
+    </modules>
+  </component>
+</project>

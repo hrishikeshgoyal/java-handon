@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="kafka-consumer-database-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springboot/springboot-kafka/kafka-consumer-database/target/kafka-consumer-database-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
