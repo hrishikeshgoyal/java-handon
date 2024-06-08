@@ -1,4 +1,4 @@
-package org.example.store;
+package org.vendingmachine.store;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,7 +1,7 @@
-package org.example.cache;
+package org.vendingmachine.cache;
 
-import org.example.policies.EvictionPolicy;
-import org.example.store.DataStore;
+import org.vendingmachine.policies.EvictionPolicy;
+import org.vendingmachine.store.DataStore;
 
 public class LRUCache implements Cache{
     private EvictionPolicy policy;

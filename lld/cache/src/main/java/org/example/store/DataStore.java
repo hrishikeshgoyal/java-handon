@@ -1,4 +1,4 @@
-package org.example.store;
+package org.vendingmachine.store;
 
 public interface DataStore {
     void set(int k, String v);

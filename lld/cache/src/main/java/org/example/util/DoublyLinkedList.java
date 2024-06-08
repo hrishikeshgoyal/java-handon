@@ -1,4 +1,4 @@
-package org.example.util;
+package org.vendingmachine.util;
 
 
 import java.util.NoSuchElementException;

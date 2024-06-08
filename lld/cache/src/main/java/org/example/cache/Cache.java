@@ -1,4 +1,4 @@
-package org.example.cache;
+package org.vendingmachine.cache;
 
 public interface Cache {
     String get(int k);

@@ -1,11 +1,11 @@
-package org.example;
+package org.vendingmachine;
 
-import org.example.cache.Cache;
-import org.example.cache.LRUCache;
-import org.example.policies.EvictionPolicy;
-import org.example.policies.LruEvictionPolicy;
-import org.example.store.DataStore;
-import org.example.store.InMemoryHashMap;
+import org.vendingmachine.cache.Cache;
+import org.vendingmachine.cache.LRUCache;
+import org.vendingmachine.policies.EvictionPolicy;
+import org.vendingmachine.policies.LruEvictionPolicy;
+import org.vendingmachine.store.DataStore;
+import org.vendingmachine.store.InMemoryHashMap;
 
 public class Main {
     public static void main(String[] args) {

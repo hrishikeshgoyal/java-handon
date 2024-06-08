@@ -1,7 +1,7 @@
-package org.example.policies;
+package org.vendingmachine.policies;
 
-import org.example.util.DoublyLinkedList;
-import org.example.util.DoublyLinkedListNode;
+import org.vendingmachine.util.DoublyLinkedList;
+import org.vendingmachine.util.DoublyLinkedListNode;
 
 import java.util.HashMap;
 import java.util.Map;
