@@ -1,4 +1,4 @@
-package org.example.pubsub.subscribers;
+package org.vendingmachine.pubsub.subscribers;
 
 public interface Subscriber {
     String getId();

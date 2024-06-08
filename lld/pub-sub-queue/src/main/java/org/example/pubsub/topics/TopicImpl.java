@@ -1,6 +1,6 @@
-package org.example.pubsub.topics;
+package org.vendingmachine.pubsub.topics;
 
-import org.example.pubsub.subscribers.Subscriber;
+import org.vendingmachine.pubsub.subscribers.Subscriber;
 
 import java.util.ArrayList;
 import java.util.HashMap;

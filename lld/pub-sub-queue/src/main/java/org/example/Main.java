@@ -1,8 +1,8 @@
-package org.example;
+package org.vendingmachine;
 
-import org.example.pubsub.subscribers.Subscriber;
-import org.example.pubsub.subscribers.SubscriberImpl;
-import org.example.pubsub.topics.Topic;
+import org.vendingmachine.pubsub.subscribers.Subscriber;
+import org.vendingmachine.pubsub.subscribers.SubscriberImpl;
+import org.vendingmachine.pubsub.topics.Topic;
 
 public class Main {
     public static void main(String[] args) {

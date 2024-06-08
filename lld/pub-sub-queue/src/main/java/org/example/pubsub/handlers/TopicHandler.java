@@ -1,7 +1,7 @@
-package org.example.pubsub.handlers;
+package org.vendingmachine.pubsub.handlers;
 
-import org.example.pubsub.subscribers.Subscriber;
-import org.example.pubsub.topics.Topic;
+import org.vendingmachine.pubsub.subscribers.Subscriber;
+import org.vendingmachine.pubsub.topics.Topic;
 
 import java.util.HashMap;
 import java.util.Map;
