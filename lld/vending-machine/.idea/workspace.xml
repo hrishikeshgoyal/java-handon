@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bdecc7c-b175-4d59-86d5-cd8a3d2a666f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vendingmachine/Denomination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vendingmachine/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vendingmachine/Monetizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vendingmachine/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/vendingmachine/VendingMachineState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/cache/Cache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/cache/Cache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/cache/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/cache/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/policies/EvictionPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/policies/EvictionPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/policies/LruEvictionPolicy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/policies/LruEvictionPolicy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/store/DataStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/store/DataStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/store/InMemoryHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/store/InMemoryHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/util/DoublyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/util/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cache/src/main/java/org/example/util/DoublyLinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../cache/src/main/java/org/example/util/DoublyLinkedListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/handlers/SubscriberWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/handlers/SubscriberWorker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/handlers/TopicHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/handlers/TopicHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/subscribers/Subscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/subscribers/Subscriber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/subscribers/SubscriberImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/subscribers/SubscriberImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/topics/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/topics/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/topics/TopicImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../pub-sub-queue/src/main/java/org/example/pubsub/topics/TopicImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
+  <component name="ProjectId" id="2hMwzL7tUkQR6ZBB9yWi7Biu3TJ" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bdecc7c-b175-4d59-86d5-cd8a3d2a666f" name="Changes" comment="" />
+      <created>1717417515947</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717417515947</updated>
+      <workItem from="1717417519164" duration="3211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>
